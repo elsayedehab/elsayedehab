@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 📘 I’m currently learning **Deep Learning** and **Backend Development**.  
+- 📘 I’m currently learning **Machine Learning** and **Backend Development**.  
 - 🏫 I’m an undergraduate student at **Faculty of Computers & Informatics**, Benha University.  
 - 💻 I’m a **competitive programmer** on platforms like **Codeforces**, **Leetcode**, and **CodeChef**.  
 - 💬 Ask me about **MySQL**, **TensorFlow**, **PyTorch**, **Node.js**.  
