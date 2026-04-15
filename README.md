@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Elsayed%20Ehab&fontSize=80" width="100%" />
   
   <h1>Elsayed Ehab</h1>
-  <h3>Software Engineer</h3>
+  <h3>Software Engineer | Junior Odoo Developer</h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=elsayedehab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,25 +14,33 @@
 
 ### 📌 About Me
 
-* 🔍 **Junior Odoo Developer** specializing in building, customizing, and optimizing ERP solutions.
-* 🎓 Bachelor's degree in **Computer Science and Artificial Intelligence** from Benha University.
-* 💡 Strong problem-solving skills (Competitive Programming).
-* 🏗️ Delivering scalable business applications and interactive front-end features using **OWL**.
-* 📫 Reach me at: **elsayedehabelsayedmohamed@gmail.com**.
+* 🔍 **Junior Odoo Developer** specializing in building, customizing, and optimizing ERP solutions[cite: 6].
+* 🎓 Bachelor's degree in **Computer Science and Artificial Intelligence** from Benha University[cite: 10].
+* 🏗️ Delivering scalable business applications and interactive front-end features using **OWL**[cite: 8].
+* 🚀 Strong problem-solving skills and experience with **AI** models[cite: 8].
+* 📫 Reach me at: **elsayedehabelsayedmohamed@gmail.com**[cite: 3].
 
 ---
 
 ### 🛠️ Tech Stack
 
-| Languages & Frameworks | Databases & OS | Tools & Platforms |
-| :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35" height="35"/> **PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/> **Git** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> **JavaScript (OWL)** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35"/> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35"/> **Docker** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35" height="35"/> **C++** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35"/> **Linux** | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" height="35"/> **Postman** |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="odoo" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+</p>
 
----
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsayedehab&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
