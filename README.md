@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Elsayed Ehab
-### A Back-End Developer
+👋 Hi, I'm Elsayed Ehab
+A Senior Odoo Developer & Back-End Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elsayedehab&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -7,34 +7,20 @@
 
 ---
 
-### 📌 About Me
-
-- 🔍 I’m currently learning **Deep Learning** and **Back-End Development**
-- 🏫 Undergraduate Student at **Faculty of Computers & Informatics, Benha University**
-- 💻 Competitive Programmer on **Codeforces, Leetcode, Codechef**
-- 💬 Ask me about: **MySQL**, **TensorFlow**, **PyTorch**, **Node.js**
-- 🤝 I’m looking for an **Internship or Part-Time Job**
+👨‍💻 About Me
+💼 Odoo Developer specializing in custom modules & business workflows
+🐍 Strong experience with Python, APIs, and automation
+🛠 Building ERP solutions, REST APIs, and scalable backends
+📫 Reach me : sehab5147@gmail.com
 
 ---
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayed%20ehab)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/sayed%20ehab)
-
----
-
-## 🧠 My Skills
-
-### 👨‍💻 Programming Languages
+🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### 🛠️ Software & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
@@ -45,16 +31,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🧑‍💻 IDEs
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 
-### 🎯 Competitive Programming & Problem Solving
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)
-![Codingame](https://img.shields.io/badge/Codingame-F2BB13?style=flat&logo=codingame&logoColor=black)
+
 
 ### 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
