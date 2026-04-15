@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Elsayed%20Ehab&fontSize=80" width="100%" />
   
-  ## Software Engineer 
+  <h1> Elsayed Ehab </h1> ## Software Engineer 
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=elsayedehab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
